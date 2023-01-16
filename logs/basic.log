@@ -1,0 +1,213 @@
+2023-01-16 15:39:03,248 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 15:39:03,249 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 15:39:03,250 [INFO]  * Restarting with stat
+2023-01-16 15:39:03,503 [WARNING]  * Debugger is active!
+2023-01-16 15:39:03,505 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:39:18,858 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:18] "GET / HTTP/1.1" 200 -
+2023-01-16 15:39:19,336 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:19] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:39:19,371 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:19] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:19,391 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:19] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:19,391 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:19] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:20,864 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:20] "GET / HTTP/1.1" 200 -
+2023-01-16 15:39:20,976 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:20] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:39:20,992 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:20] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:21,033 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:21] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:21,035 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:21] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:22,210 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:22] "GET /users/leo HTTP/1.1" 200 -
+2023-01-16 15:39:22,280 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:22] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:39:22,294 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:22] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:22,316 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:22] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:22,317 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:22] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:23,804 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:23] "GET / HTTP/1.1" 200 -
+2023-01-16 15:39:23,922 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:23] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:39:23,933 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:23] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:23,966 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:23] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:23,967 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:23] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:26,788 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:26] "GET /search?s=� HTTP/1.1" 200 -
+2023-01-16 15:39:26,884 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:39:26,899 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:26,906 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:26] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:39:26,930 [INFO] 127.0.0.1 - - [16/Jan/2023 15:39:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:40:55,295 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\��������_�3\\api\\views.py', reloading
+2023-01-16 15:40:55,323 [INFO]  * Restarting with stat
+2023-01-16 15:40:55,591 [WARNING]  * Debugger is active!
+2023-01-16 15:40:55,593 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:40:56,730 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:56] "GET / HTTP/1.1" 200 -
+2023-01-16 15:40:57,285 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:57] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:40:57,291 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:57] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:40:57,304 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:57] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:40:57,305 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:57] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:40:57,952 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:57] "GET /users/leo HTTP/1.1" 200 -
+2023-01-16 15:40:58,012 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:40:58,039 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:58] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:40:58,062 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:58] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:40:58,063 [INFO] 127.0.0.1 - - [16/Jan/2023 15:40:58] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:42:10,734 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\��������_�3\\api\\views.py', reloading
+2023-01-16 15:42:10,759 [INFO]  * Restarting with stat
+2023-01-16 15:42:11,011 [WARNING]  * Debugger is active!
+2023-01-16 15:42:11,013 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:42:11,235 [INFO] 127.0.0.1 - - [16/Jan/2023 15:42:11] "GET / HTTP/1.1" 200 -
+2023-01-16 15:42:11,733 [INFO] 127.0.0.1 - - [16/Jan/2023 15:42:11] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:42:11,744 [INFO] 127.0.0.1 - - [16/Jan/2023 15:42:11] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:42:11,756 [INFO] 127.0.0.1 - - [16/Jan/2023 15:42:11] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:42:11,756 [INFO] 127.0.0.1 - - [16/Jan/2023 15:42:11] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:42:14,596 [INFO] 127.0.0.1 - - [16/Jan/2023 15:42:14] "GET /search?s=y HTTP/1.1" 200 -
+2023-01-16 15:42:14,651 [INFO] 127.0.0.1 - - [16/Jan/2023 15:42:14] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:42:42,530 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\api\\views.py', reloading
+2023-01-16 15:42:42,557 [INFO]  * Restarting with stat
+2023-01-16 15:42:42,841 [WARNING]  * Debugger is active!
+2023-01-16 15:42:42,843 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:43:25,046 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 15:43:25,046 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 15:43:25,047 [INFO]  * Restarting with stat
+2023-01-16 15:43:25,306 [WARNING]  * Debugger is active!
+2023-01-16 15:43:25,308 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:43:28,242 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:28] "GET / HTTP/1.1" 200 -
+2023-01-16 15:43:28,769 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:28] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:28,770 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:28] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:43:28,780 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:28] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:28,782 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:28] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:30,768 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:30] "GET / HTTP/1.1" 200 -
+2023-01-16 15:43:30,877 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:30] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:43:30,886 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:30] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:30,918 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:30] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:30,919 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:30] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:31,713 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:31] "GET /users/leo HTTP/1.1" 200 -
+2023-01-16 15:43:31,784 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:31] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 15:43:31,804 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:31] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:31,816 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:31] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:31,838 [INFO] 127.0.0.1 - - [16/Jan/2023 15:43:31] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 15:43:59,883 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\api\\views.py', reloading
+2023-01-16 15:43:59,912 [INFO]  * Restarting with stat
+2023-01-16 15:44:00,173 [WARNING]  * Debugger is active!
+2023-01-16 15:44:00,175 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:48:34,460 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 15:48:34,483 [INFO]  * Restarting with stat
+2023-01-16 15:48:34,736 [WARNING]  * Debugger is active!
+2023-01-16 15:48:34,738 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:50:38,797 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 15:50:38,824 [INFO]  * Restarting with stat
+2023-01-16 15:50:39,090 [WARNING]  * Debugger is active!
+2023-01-16 15:50:39,092 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:56:21,697 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 15:56:21,720 [INFO]  * Restarting with stat
+2023-01-16 15:56:21,977 [WARNING]  * Debugger is active!
+2023-01-16 15:56:21,979 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 15:58:50,493 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 15:58:50,519 [INFO]  * Restarting with stat
+2023-01-16 15:58:50,779 [WARNING]  * Debugger is active!
+2023-01-16 15:58:50,781 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:03:58,502 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 16:03:58,502 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 16:03:58,504 [INFO]  * Restarting with stat
+2023-01-16 16:03:58,768 [WARNING]  * Debugger is active!
+2023-01-16 16:03:58,770 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:04:52,895 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 16:04:52,896 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 16:04:52,897 [INFO]  * Restarting with stat
+2023-01-16 16:04:53,149 [WARNING]  * Debugger is active!
+2023-01-16 16:04:53,152 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:04:56,535 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:56] "GET /users/leo HTTP/1.1" 200 -
+2023-01-16 16:04:56,893 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:56] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:04:57,033 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:57] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 16:04:57,034 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:57] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 16:04:57,034 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:57] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 16:04:59,062 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:59] "GET / HTTP/1.1" 200 -
+2023-01-16 16:04:59,178 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:59] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:04:59,211 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:59] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 16:04:59,212 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:59] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 16:04:59,256 [INFO] 127.0.0.1 - - [16/Jan/2023 16:04:59] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 16:05:02,871 [INFO] 127.0.0.1 - - [16/Jan/2023 16:05:02] "GET /search?s=вышел HTTP/1.1" 200 -
+2023-01-16 16:05:02,938 [INFO] 127.0.0.1 - - [16/Jan/2023 16:05:02] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:05:02,955 [INFO] 127.0.0.1 - - [16/Jan/2023 16:05:02] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 16:05:02,973 [INFO] 127.0.0.1 - - [16/Jan/2023 16:05:02] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 16:05:02,984 [INFO] 127.0.0.1 - - [16/Jan/2023 16:05:02] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 16:05:26,716 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:05:26,742 [INFO]  * Restarting with stat
+2023-01-16 16:05:27,000 [WARNING]  * Debugger is active!
+2023-01-16 16:05:27,003 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:06:14,796 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:06:14,819 [INFO]  * Restarting with stat
+2023-01-16 16:06:15,075 [WARNING]  * Debugger is active!
+2023-01-16 16:06:15,077 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:06:38,512 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:06:38,534 [INFO]  * Restarting with stat
+2023-01-16 16:06:38,793 [WARNING]  * Debugger is active!
+2023-01-16 16:06:38,795 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:07:15,385 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:07:15,409 [INFO]  * Restarting with stat
+2023-01-16 16:07:15,671 [WARNING]  * Debugger is active!
+2023-01-16 16:07:15,673 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:08:14,742 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:08:14,770 [INFO]  * Restarting with stat
+2023-01-16 16:08:15,039 [WARNING]  * Debugger is active!
+2023-01-16 16:08:15,042 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:09:51,622 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:09:51,648 [INFO]  * Restarting with stat
+2023-01-16 16:09:51,914 [WARNING]  * Debugger is active!
+2023-01-16 16:09:51,916 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:10:32,617 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:10:32,645 [INFO]  * Restarting with stat
+2023-01-16 16:10:32,904 [WARNING]  * Debugger is active!
+2023-01-16 16:10:32,906 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:12:21,700 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\api\\views.py', reloading
+2023-01-16 16:12:21,723 [INFO]  * Restarting with stat
+2023-01-16 16:12:21,969 [WARNING]  * Debugger is active!
+2023-01-16 16:12:21,971 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:12:52,535 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:12:52,559 [INFO]  * Restarting with stat
+2023-01-16 16:12:52,815 [WARNING]  * Debugger is active!
+2023-01-16 16:12:52,817 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:13:10,143 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:13:10,170 [INFO]  * Restarting with stat
+2023-01-16 16:13:10,424 [WARNING]  * Debugger is active!
+2023-01-16 16:13:10,426 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:13:16,569 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:13:16,592 [INFO]  * Restarting with stat
+2023-01-16 16:13:16,848 [WARNING]  * Debugger is active!
+2023-01-16 16:13:16,851 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:15:37,210 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\tests\\api_test.py', reloading
+2023-01-16 16:15:37,235 [INFO]  * Restarting with stat
+2023-01-16 16:15:37,488 [WARNING]  * Debugger is active!
+2023-01-16 16:15:37,490 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:17:44,756 [INFO]  * Detected change in 'C:\\Users\\Family\\PycharmProjects\\Курсовая_№3\\api\\views.py', reloading
+2023-01-16 16:17:44,778 [INFO]  * Restarting with stat
+2023-01-16 16:17:45,039 [WARNING]  * Debugger is active!
+2023-01-16 16:17:45,041 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:18:00,560 [INFO] 127.0.0.1 - - [16/Jan/2023 16:18:00] "GET / HTTP/1.1" 200 -
+2023-01-16 16:18:00,841 [INFO] 127.0.0.1 - - [16/Jan/2023 16:18:00] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:18:00,853 [INFO] 127.0.0.1 - - [16/Jan/2023 16:18:00] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 16:18:00,869 [INFO] 127.0.0.1 - - [16/Jan/2023 16:18:00] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 16:18:00,880 [INFO] 127.0.0.1 - - [16/Jan/2023 16:18:00] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:23,372 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-16 16:19:23,372 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-16 16:19:23,374 [INFO]  * Restarting with stat
+2023-01-16 16:19:23,630 [WARNING]  * Debugger is active!
+2023-01-16 16:19:23,632 [INFO]  * Debugger PIN: 707-440-387
+2023-01-16 16:19:26,147 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:26] "GET / HTTP/1.1" 200 -
+2023-01-16 16:19:26,652 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:19:26,660 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:26,684 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:26,685 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:26] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:27,674 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:27] "GET /users/leo HTTP/1.1" 200 -
+2023-01-16 16:19:27,744 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:27] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:19:27,763 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:27] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:27,780 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:27] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:27,793 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:27] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:29,125 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:29] "GET / HTTP/1.1" 200 -
+2023-01-16 16:19:29,244 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:29] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:19:29,257 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:29] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:29,290 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:29] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:29,292 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:29] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:31,210 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:31] "GET /search?s=nm, HTTP/1.1" 200 -
+2023-01-16 16:19:31,275 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:31] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:19:33,815 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:33] "GET /search?s=вышел HTTP/1.1" 200 -
+2023-01-16 16:19:33,886 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-16 16:19:33,904 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:33] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:33,906 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:33] "[36mGET /static/img/heart.png HTTP/1.1[0m" 304 -
+2023-01-16 16:19:33,927 [INFO] 127.0.0.1 - - [16/Jan/2023 16:19:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
